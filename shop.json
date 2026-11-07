@@ -1,37 +1,35 @@
 {
   "updated": "2026-11-07",
   "currency": "EUR",
-  "waitlistUrl": "mailto:hello@me20.studio?subject=Glass%20UI%20kits%20%E2%80%94%20notify%20me",
+  "waitlistUrl": "mailto:hello@me20.studio?subject=Glass%20UI%20%E2%80%94%20notify%20me",
   "launchNote": {
-    "en": "Glass UI kits launch soon. Join the list and get 30% off on launch day.",
-    "ua": "Скоро запуск наборів Glass UI. Запишіться — і в день запуску отримаєте −30%."
+    "en": "Glass components launch soon. Join the list and get 30% off on launch day.",
+    "ua": "Скоро запуск скляних компонентів. Запишіться — і в день запуску отримаєте −30%."
   },
   "products": [
     {
-      "id": "glass-menus-liquid-glass",
+      "id": "glass-navigation",
       "status": "coming-soon",
       "name": {
-        "en": "Liquid Glass",
-        "ua": "Liquid Glass"
+        "en": "Glass Navigation",
+        "ua": "Glass Navigation"
       },
       "tagline": {
-        "en": "A complete clear-glass UI kit: menus, buttons, cards and overlays.",
-        "ua": "Повний набір прозорого скляного UI: меню, кнопки, картки й оверлеї."
+        "en": "Six liquid-glass menus with matching buttons, cards and overlays.",
+        "ua": "Шість меню з рідкого скла плюс кнопки, картки й оверлеї в тому ж стилі."
       },
       "includes": {
         "en": [
           "6 navigation menus: liquid lens, dark neon, bounce, neon wave, spotlight, floating button",
           "Buttons & controls: bubble-pop CTA, 3 button styles, toggle, segmented control, filter chips",
           "Cards & overlays: content and pricing cards, modal, toast, tooltip, dashboard panel",
-          "All in one style — clear frosted glass",
-          "Keyboard support, reduced motion, your own colours with CSS variables"
+          "Fits phone screens, keyboard support, reduced motion, your own colours"
         ],
         "ua": [
           "6 навігаційних меню: скляна лінза, темний неон, bounce, неонова хвиля, прожектор, плаваюча кнопка",
           "Кнопки й елементи керування: CTA з бульбашками, 3 стилі кнопок, перемикач, сегментований вибір, чипи-фільтри",
           "Картки й оверлеї: картка контенту й картка з ціною, модальне вікно, тост, підказка, панель для дашборду",
-          "Усе в одному стилі — прозоре матове скло",
-          "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
+          "Підлаштовується під телефон, клавіатура, спокійний режим, власні кольори"
         ]
       },
       "formats": [
@@ -40,42 +38,40 @@
         "Web Component"
       ],
       "price": {
-        "personal": 39,
-        "commercial": 79
+        "personal": 19,
+        "commercial": 19
       },
       "buy": {
         "personal": "",
         "commercial": ""
       },
-      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-liquid-glass-v2.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-liquid-glass-v2.webp",
       "preview": "nav"
     },
     {
-      "id": "glass-menus-aurora-motion",
+      "id": "glass-carousel",
       "status": "coming-soon",
       "name": {
-        "en": "Aurora & Motion",
-        "ua": "Aurora & Motion"
+        "en": "Glass Carousel",
+        "ua": "Glass Carousel"
       },
       "tagline": {
-        "en": "A complete colourful UI kit with motion that feels alive.",
-        "ua": "Повний кольоровий UI-набір із «живою» анімацією."
+        "en": "Your videos and photos on glass cards in 3D, with a background that moves along.",
+        "ua": "Ваші відео й фото на скляних картках у 3D, а фон рухається разом з ними."
       },
       "includes": {
         "en": [
-          "6 navigation menus: aurora glow, magnetic dock, liquid morph, liquid underline, gradient border, split pill",
-          "Buttons & controls: bubble-pop CTA, 3 button styles, toggle, segmented control, filter chips",
-          "Cards & overlays: content and pricing cards, modal, toast, tooltip, dashboard panel",
-          "All in one style — aurora glow and rainbow borders",
-          "Keyboard support, reduced motion, your own colours with CSS variables"
+          "4 layouts: 3D ring, coverflow, card stack, fan — switch with one attribute",
+          "Video or photo cards; only the active video plays, so it stays light on phones",
+          "Living background: the active card, blurred behind the glass",
+          "Glass player (previous, next, autoplay, like, open) and a glass window with details",
+          "Swipe with fling, arrow keys, screen-reader labels, reduced motion"
         ],
         "ua": [
-          "6 навігаційних меню: кольорове сяйво, магнітний док, рідка крапля, рідке підкреслення, райдужна рамка, split pill",
-          "Кнопки й елементи керування: CTA з бульбашками, 3 стилі кнопок, перемикач, сегментований вибір, чипи-фільтри",
-          "Картки й оверлеї: картка контенту й картка з ціною, модальне вікно, тост, підказка, панель для дашборду",
-          "Усе в одному стилі — кольорове сяйво й райдужні рамки",
-          "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
+          "4 режими: 3D-коло, coverflow, стопка карток, віяло — перемикаються одним атрибутом",
+          "Картки з відео або фото; грає тільки активне відео, тому легко на телефоні",
+          "Живий фон: активна картка, розмита за склом",
+          "Скляний плеєр (назад, вперед, автопрокрутка, лайк, відкрити) і скляне вікно з описом",
+          "Свайп з інерцією, стрілки, підписи для скрінрідерів, спокійний режим"
         ]
       },
       "formats": [
@@ -84,42 +80,42 @@
         "Web Component"
       ],
       "price": {
-        "personal": 39,
-        "commercial": 79
+        "personal": 19,
+        "commercial": 19
       },
       "buy": {
         "personal": "",
         "commercial": ""
       },
-      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-aurora-motion-v2.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-aurora-motion-v2.webp",
-      "preview": "nav"
+      "preview": "cards"
     },
     {
-      "id": "glass-menus-mobile-floating",
+      "id": "glass-moments",
       "status": "coming-soon",
       "name": {
-        "en": "Mobile & Floating",
-        "ua": "Mobile & Floating"
+        "en": "Glass Moments",
+        "ua": "Glass Moments"
       },
       "tagline": {
-        "en": "A complete UI kit for phones, apps and dashboards.",
-        "ua": "Повний UI-набір для телефонів, застосунків і дашбордів."
+        "en": "Five glass components, each with its own “wow”.",
+        "ua": "П'ять скляних компонентів, і в кожного свій «вау»."
       },
       "includes": {
         "en": [
-          "6 navigation menus: tab bar, floating dock, radial menu, menu sheet, side rail, search bar",
-          "Buttons & controls: bubble-pop CTA, 3 button styles, toggle, segmented control, filter chips",
-          "Cards & overlays: content and pricing cards, modal, toast, tooltip, dashboard panel",
-          "All in one style — big touch targets, bottom sheets instead of modals",
-          "Keyboard support, reduced motion, your own colours with CSS variables"
+          "Hanging badge: drag, toss and flip it — real swing physics",
+          "Verification code (OTP) with confetti on the right code and a shake on a wrong one",
+          "Download button that turns into a progress ring and a check",
+          "Like button with a heart burst and a rolling counter",
+          "Liquid switch that flows like a drop",
+          "Keyboard and screen-reader support, reduced motion"
         ],
         "ua": [
-          "6 навігаційних меню: панель вкладок, плаваючий док, радіальне меню, шторка-меню, бічна панель, панель пошуку",
-          "Кнопки й елементи керування: CTA з бульбашками, 3 стилі кнопок, перемикач, сегментований вибір, чипи-фільтри",
-          "Картки й оверлеї: картка контенту й картка з ціною, модальне вікно, тост, підказка, панель для дашборду",
-          "Усе в одному стилі — великі зони натискання, нижні шторки замість модальних вікон",
-          "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
+          "Висячий бейдж: тягніть, кидайте й перевертайте — справжня фізика",
+          "Поле коду (OTP): конфеті на правильний код і трусіння на неправильний",
+          "Кнопка завантаження, що перетворюється на кільце прогресу й галочку",
+          "Лайк з вибухом сердечок і лічильником-барабаном",
+          "Рідкий перемикач, що перетікає, як крапля",
+          "Клавіатура, скрінрідери, спокійний режим"
         ]
       },
       "formats": [
@@ -128,32 +124,30 @@
         "Web Component"
       ],
       "price": {
-        "personal": 39,
-        "commercial": 79
+        "personal": 19,
+        "commercial": 19
       },
       "buy": {
         "personal": "",
         "commercial": ""
       },
-      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-mobile-floating-v2.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-mobile-floating-v2.webp",
-      "preview": "nav"
+      "preview": "buttons"
     }
   ],
   "bundle": {
-    "id": "glass-menus-all",
+    "id": "glass-ui-all",
     "status": "coming-soon",
     "name": {
-      "en": "Glass UI — all three styles",
-      "ua": "Glass UI — усі три стилі"
+      "en": "All three: Navigation, Carousel, Moments",
+      "ua": "Усі три: Navigation, Carousel, Moments"
     },
     "tagline": {
-      "en": "18 menus plus buttons, cards and overlays in all three styles, and every future update.",
-      "ua": "18 меню плюс кнопки, картки й оверлеї у всіх трьох стилях — і всі майбутні оновлення."
+      "en": "Every glass component we make today, and every future update.",
+      "ua": "Усі скляні компоненти, які є зараз, і всі майбутні оновлення."
     },
     "price": {
-      "personal": 89,
-      "commercial": 179
+      "personal": 39,
+      "commercial": 39
     },
     "buy": {
       "personal": "",
@@ -162,12 +156,12 @@
   },
   "licenses": {
     "personal": {
-      "en": "Personal — your own sites and apps, unlimited projects.",
-      "ua": "Особиста — ваші власні сайти й застосунки, без ліміту проєктів."
+      "en": "One licence for everyone: use it in your own sites and apps and in client projects, unlimited.",
+      "ua": "Одна ліцензія для всіх: на ваших сайтах і застосунках та в проєктах для клієнтів, без ліміту."
     },
     "commercial": {
-      "en": "Commercial — also client work and products you sell. Not for reselling the kit itself.",
-      "ua": "Комерційна — також для клієнтських проєктів і продуктів на продаж. Не для перепродажу самого набору."
+      "en": "Not allowed: reselling or sharing the kit itself as a template or component library.",
+      "ua": "Не можна: перепродавати чи викладати сам набір як шаблон або бібліотеку компонентів."
     }
   },
   "faq": [
@@ -177,8 +171,18 @@
         "ua": "Що я отримаю після покупки?"
       },
       "a": {
-        "en": "A download with every component of the kit (HTML, React and a Web Component), a short guide and examples. Updates are free.",
-        "ua": "Архів з усіма компонентами набору (HTML, React і веб-компонент), коротку інструкцію та приклади. Оновлення безкоштовні."
+        "en": "A download with all components of the product (HTML, a Web Component you can use in React), a short guide and examples. Updates are free.",
+        "ua": "Архів з усіма компонентами продукту (HTML і веб-компонент, який працює і в React), коротку інструкцію та приклади. Оновлення безкоштовні."
+      }
+    },
+    {
+      "q": {
+        "en": "Which licence do I need?",
+        "ua": "Яка ліцензія мені потрібна?"
+      },
+      "a": {
+        "en": "There is only one. It covers your own projects and client work. You just can't resell the kit itself.",
+        "ua": "Вона одна. Покриває ваші проєкти й роботу для клієнтів. Не можна лише перепродавати сам набір."
       }
     },
     {
