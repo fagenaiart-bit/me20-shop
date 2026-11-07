@@ -45,7 +45,8 @@
         "personal": "",
         "commercial": ""
       },
-      "preview": "nav"
+      "preview": "nav",
+      "demo": "/demo/glass-menus/liquid-glass.html"
     },
     {
       "id": "glass-carousel",
