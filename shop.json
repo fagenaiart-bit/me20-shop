@@ -3,75 +3,175 @@
   "currency": "EUR",
   "waitlistUrl": "mailto:hello@me20.studio?subject=Glass%20UI%20kits%20%E2%80%94%20notify%20me",
   "launchNote": {
-    "en": "Launching soon. Join the list and get 30% off on launch day.",
-    "ua": "Скоро запуск. Запишіться — і в день запуску отримаєте −30%."
+    "en": "Glass Menus launch soon. Join the list and get 30% off on launch day.",
+    "ua": "Скоро запуск Glass Menus. Запишіться — і в день запуску отримаєте −30%."
   },
   "products": [
     {
-      "id": "glass-navigation",
+      "id": "glass-menus-liquid-glass",
       "status": "coming-soon",
-      "name": { "en": "Glass Navigation", "ua": "Glass Navigation" },
+      "name": {
+        "en": "Liquid Glass",
+        "ua": "Liquid Glass"
+      },
       "tagline": {
-        "en": "Animated glass navigation bars for websites and apps.",
-        "ua": "Анімовані скляні навігації для сайтів і застосунків."
+        "en": "6 classic glass navigation bars: clear, calm and elegant.",
+        "ua": "6 класичних скляних навігацій: прозоро, спокійно, елегантно."
       },
       "includes": {
-        "en": ["6 desktop bars: liquid lens, dark neon, bounce, neon wave, spotlight, floating button", "2 mobile bars: glass dock and bottom tab bar", "3 ready themes + your own colours with CSS variables", "Keyboard support, reduced motion, fallback for older browsers"],
-        "ua": ["6 панелей для десктопа: скляна лінза, темний неон, bounce, неонова хвиля, прожектор, плаваюча кнопка", "2 мобільні панелі: скляний док і нижня панель вкладок", "3 готові теми + власні кольори через CSS-змінні", "Клавіатура, спокійний режим, запасний вигляд для старих браузерів"]
+        "en": [
+          "Liquid lens that follows the cursor",
+          "Dark neon lens",
+          "Bounce: the icon jumps out as a glass bubble",
+          "Neon wave over the active tab",
+          "Spotlight from above",
+          "Floating button in a notch",
+          "Keyboard support, reduced motion, your own colours with CSS variables"
+        ],
+        "ua": [
+          "Скляна лінза, що їде за курсором",
+          "Темна неонова лінза",
+          "Bounce: іконка вистрибує скляною бульбашкою",
+          "Неонова хвиля над активною вкладкою",
+          "Прожектор зверху",
+          "Плаваюча кнопка у виїмці",
+          "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
+        ]
       },
-      "formats": ["HTML", "React", "Web Component"],
-      "price": { "personal": 19, "commercial": 39 },
-      "buy": { "personal": "", "commercial": "" },
-      "demo": "/free/glass-nav/demo.html",
-      "video": "/media/glass-nav/glass-menus.mp4",
-      "poster": "/media/glass-nav/poster.webp",
+      "formats": [
+        "HTML",
+        "React",
+        "Web Component"
+      ],
+      "price": {
+        "personal": 19,
+        "commercial": 39
+      },
+      "buy": {
+        "personal": "",
+        "commercial": ""
+      },
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-liquid-glass.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-liquid-glass.webp",
+      "preview": "nav",
+      "demo": "/free/glass-nav/demo.html"
+    },
+    {
+      "id": "glass-menus-aurora-motion",
+      "status": "coming-soon",
+      "name": {
+        "en": "Aurora & Motion",
+        "ua": "Aurora & Motion"
+      },
+      "tagline": {
+        "en": "6 colourful menus with motion that feels alive.",
+        "ua": "6 кольорових меню з «живою» анімацією."
+      },
+      "includes": {
+        "en": [
+          "Aurora: a colour glow flows under the active tab",
+          "Magnetic dock: icons grow under the cursor",
+          "Liquid morph: the indicator flows like a drop",
+          "Liquid underline that stretches as it moves",
+          "Animated rainbow gradient border",
+          "Split pill: the active item floats out on its own",
+          "Keyboard support, reduced motion, your own colours with CSS variables"
+        ],
+        "ua": [
+          "Aurora: кольорове сяйво перетікає під активну вкладку",
+          "Magnetic dock: іконки збільшуються під курсором",
+          "Liquid morph: індикатор перетікає, як крапля",
+          "Рідка лінія-підкреслення, що тягнеться в русі",
+          "Анімована райдужна рамка",
+          "Split pill: активний пункт «відпливає» окремо",
+          "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
+        ]
+      },
+      "formats": [
+        "HTML",
+        "React",
+        "Web Component"
+      ],
+      "price": {
+        "personal": 19,
+        "commercial": 39
+      },
+      "buy": {
+        "personal": "",
+        "commercial": ""
+      },
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-aurora-motion.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-aurora-motion.webp",
       "preview": "nav"
     },
     {
-      "id": "glass-buttons",
+      "id": "glass-menus-mobile-floating",
       "status": "coming-soon",
-      "name": { "en": "Glass Buttons & Controls", "ua": "Glass Buttons & Controls" },
+      "name": {
+        "en": "Mobile & Floating",
+        "ua": "Mobile & Floating"
+      },
       "tagline": {
-        "en": "Buttons and controls that feel like real glass.",
-        "ua": "Кнопки й елементи керування, що відчуваються як справжнє скло."
+        "en": "6 menus for phones, apps and dashboards.",
+        "ua": "6 меню для телефонів, застосунків і дашбордів."
       },
       "includes": {
-        "en": ["Bubble-pop CTA button (the one on me20.studio)", "3 glass button styles: clear, tinted, neon", "Toggle switch and segmented control", "Filter chips and pills"],
-        "ua": ["CTA-кнопка з літерами-бульбашками (та, що на me20.studio)", "3 стилі скляних кнопок: прозорий, тонований, неон", "Перемикач і сегментований вибір", "Чипи-фільтри й таблетки"]
+        "en": [
+          "Bottom tab bar with a glass lens",
+          "Floating dock with a raised centre button",
+          "Radial menu that fans out from a + button",
+          "Hamburger that opens a glass menu sheet",
+          "Side rail for dashboards, with tooltips",
+          "Bar with a search field that expands",
+          "Keyboard support, reduced motion, your own colours with CSS variables"
+        ],
+        "ua": [
+          "Нижня панель вкладок зі скляною лінзою",
+          "Плаваючий док із піднятою центральною кнопкою",
+          "Радіальне меню, що розкривається віялом з кнопки +",
+          "Бургер, що відкриває скляну шторку меню",
+          "Бічна панель для дашбордів із підказками",
+          "Панель із полем пошуку, що розгортається",
+          "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
+        ]
       },
-      "formats": ["HTML", "React", "Web Component"],
-      "price": { "personal": 19, "commercial": 39 },
-      "buy": { "personal": "", "commercial": "" },
-      "preview": "buttons"
-    },
-    {
-      "id": "glass-cards",
-      "status": "coming-soon",
-      "name": { "en": "Glass Cards & Overlays", "ua": "Glass Cards & Overlays" },
-      "tagline": {
-        "en": "Cards, modals and notifications in frosted glass.",
-        "ua": "Картки, модальні вікна й сповіщення з матового скла."
+      "formats": [
+        "HTML",
+        "React",
+        "Web Component"
+      ],
+      "price": {
+        "personal": 19,
+        "commercial": 39
       },
-      "includes": {
-        "en": ["Content card and pricing card", "Modal window with blurred backdrop", "Toast notifications and tooltip", "Glass panel for dashboards and stats"],
-        "ua": ["Картка контенту й картка з ціною", "Модальне вікно з розмитим фоном", "Тост-сповіщення й підказка", "Скляна панель для дашбордів і статистики"]
+      "buy": {
+        "personal": "",
+        "commercial": ""
       },
-      "formats": ["HTML", "React", "Web Component"],
-      "price": { "personal": 19, "commercial": 39 },
-      "buy": { "personal": "", "commercial": "" },
-      "preview": "cards"
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-mobile-floating.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-mobile-floating.webp",
+      "preview": "nav"
     }
   ],
   "bundle": {
-    "id": "glass-ui-bundle",
+    "id": "glass-menus-all",
     "status": "coming-soon",
-    "name": { "en": "Glass UI — all three kits", "ua": "Glass UI — усі три набори" },
-    "tagline": {
-      "en": "Navigation, buttons and cards together, plus every future update.",
-      "ua": "Навігація, кнопки й картки разом — і всі майбутні оновлення."
+    "name": {
+      "en": "Glass Menus — all 18 menus",
+      "ua": "Glass Menus — усі 18 меню"
     },
-    "price": { "personal": 45, "commercial": 89 },
-    "buy": { "personal": "", "commercial": "" }
+    "tagline": {
+      "en": "All three sets together, plus every future update.",
+      "ua": "Усі три набори разом — і всі майбутні оновлення."
+    },
+    "price": {
+      "personal": 45,
+      "commercial": 89
+    },
+    "buy": {
+      "personal": "",
+      "commercial": ""
+    }
   },
   "licenses": {
     "personal": {
@@ -85,20 +185,44 @@
   },
   "faq": [
     {
-      "q": { "en": "What do I get after buying?", "ua": "Що я отримаю після покупки?" },
-      "a": { "en": "A download with the code (HTML, React and a Web Component), a short guide and examples. Updates are free.", "ua": "Архів із кодом (HTML, React і веб-компонент), коротку інструкцію та приклади. Оновлення безкоштовні." }
+      "q": {
+        "en": "What do I get after buying?",
+        "ua": "Що я отримаю після покупки?"
+      },
+      "a": {
+        "en": "A download with the code (HTML, React and a Web Component), a short guide and examples. Updates are free.",
+        "ua": "Архів із кодом (HTML, React і веб-компонент), коротку інструкцію та приклади. Оновлення безкоштовні."
+      }
     },
     {
-      "q": { "en": "Does it work with Webflow, Framer or WordPress?", "ua": "Чи працює з Webflow, Framer або WordPress?" },
-      "a": { "en": "Yes, anywhere you can paste custom code: one script tag and one HTML tag. In React and Next.js use the typed component.", "ua": "Так, будь-де, куди можна вставити свій код: один тег script і один HTML-тег. У React і Next.js — готовий компонент із типами." }
+      "q": {
+        "en": "Does it work with Webflow, Framer or WordPress?",
+        "ua": "Чи працює з Webflow, Framer або WordPress?"
+      },
+      "a": {
+        "en": "Yes, anywhere you can paste custom code: one script tag and one HTML tag. In React and Next.js use the typed component.",
+        "ua": "Так, будь-де, куди можна вставити свій код: один тег script і один HTML-тег. У React і Next.js — готовий компонент із типами."
+      }
     },
     {
-      "q": { "en": "Is there a Figma file?", "ua": "Чи є файл Figma?" },
-      "a": { "en": "Not for now — the kits are code-first. Try every component live in the demo before you buy.", "ua": "Поки ні — набори зроблені одразу в коді. Кожен компонент можна спробувати наживо в демо до покупки." }
+      "q": {
+        "en": "Is there a Figma file?",
+        "ua": "Чи є файл Figma?"
+      },
+      "a": {
+        "en": "Not for now — the kits are code-first. Try every component live in the demo before you buy.",
+        "ua": "Поки ні — набори зроблені одразу в коді. Кожен компонент можна спробувати наживо в демо до покупки."
+      }
     },
     {
-      "q": { "en": "Can I try it first?", "ua": "Чи можна спершу спробувати?" },
-      "a": { "en": "Yes — six glass navigation bars are free on the free page.", "ua": "Так — шість скляних навігацій безкоштовні на окремій сторінці." }
+      "q": {
+        "en": "Can I try it first?",
+        "ua": "Чи можна спершу спробувати?"
+      },
+      "a": {
+        "en": "Yes — six glass navigation bars are free on the free page.",
+        "ua": "Так — шість скляних навігацій безкоштовні на окремій сторінці."
+      }
     }
   ]
 }
