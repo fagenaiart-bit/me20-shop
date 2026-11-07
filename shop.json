@@ -3,8 +3,8 @@
   "currency": "EUR",
   "waitlistUrl": "mailto:hello@me20.studio?subject=Glass%20UI%20kits%20%E2%80%94%20notify%20me",
   "launchNote": {
-    "en": "Glass Menus launch soon. Join the list and get 30% off on launch day.",
-    "ua": "Скоро запуск Glass Menus. Запишіться — і в день запуску отримаєте −30%."
+    "en": "Glass UI kits launch soon. Join the list and get 30% off on launch day.",
+    "ua": "Скоро запуск наборів Glass UI. Запишіться — і в день запуску отримаєте −30%."
   },
   "products": [
     {
@@ -15,26 +15,22 @@
         "ua": "Liquid Glass"
       },
       "tagline": {
-        "en": "6 classic glass navigation bars: clear, calm and elegant.",
-        "ua": "6 класичних скляних навігацій: прозоро, спокійно, елегантно."
+        "en": "A complete clear-glass UI kit: menus, buttons, cards and overlays.",
+        "ua": "Повний набір прозорого скляного UI: меню, кнопки, картки й оверлеї."
       },
       "includes": {
         "en": [
-          "Liquid lens that follows the cursor",
-          "Dark neon lens",
-          "Bounce: the icon jumps out as a glass bubble",
-          "Neon wave over the active tab",
-          "Spotlight from above",
-          "Floating button in a notch",
+          "6 navigation menus: liquid lens, dark neon, bounce, neon wave, spotlight, floating button",
+          "Buttons & controls: bubble-pop CTA, 3 button styles, toggle, segmented control, filter chips",
+          "Cards & overlays: content and pricing cards, modal, toast, tooltip, dashboard panel",
+          "All in one style — clear frosted glass",
           "Keyboard support, reduced motion, your own colours with CSS variables"
         ],
         "ua": [
-          "Скляна лінза, що їде за курсором",
-          "Темна неонова лінза",
-          "Bounce: іконка вистрибує скляною бульбашкою",
-          "Неонова хвиля над активною вкладкою",
-          "Прожектор зверху",
-          "Плаваюча кнопка у виїмці",
+          "6 навігаційних меню: скляна лінза, темний неон, bounce, неонова хвиля, прожектор, плаваюча кнопка",
+          "Кнопки й елементи керування: CTA з бульбашками, 3 стилі кнопок, перемикач, сегментований вибір, чипи-фільтри",
+          "Картки й оверлеї: картка контенту й картка з ціною, модальне вікно, тост, підказка, панель для дашборду",
+          "Усе в одному стилі — прозоре матове скло",
           "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
         ]
       },
@@ -44,8 +40,8 @@
         "Web Component"
       ],
       "price": {
-        "personal": 19,
-        "commercial": 39
+        "personal": 39,
+        "commercial": 79
       },
       "buy": {
         "personal": "",
@@ -64,26 +60,22 @@
         "ua": "Aurora & Motion"
       },
       "tagline": {
-        "en": "6 colourful menus with motion that feels alive.",
-        "ua": "6 кольорових меню з «живою» анімацією."
+        "en": "A complete colourful UI kit with motion that feels alive.",
+        "ua": "Повний кольоровий UI-набір із «живою» анімацією."
       },
       "includes": {
         "en": [
-          "Aurora: a colour glow flows under the active tab",
-          "Magnetic dock: icons grow under the cursor",
-          "Liquid morph: the indicator flows like a drop",
-          "Liquid underline that stretches as it moves",
-          "Animated rainbow gradient border",
-          "Split pill: the active item floats out on its own",
+          "6 navigation menus: aurora glow, magnetic dock, liquid morph, liquid underline, gradient border, split pill",
+          "Buttons & controls: bubble-pop CTA, 3 button styles, toggle, segmented control, filter chips",
+          "Cards & overlays: content and pricing cards, modal, toast, tooltip, dashboard panel",
+          "All in one style — aurora glow and rainbow borders",
           "Keyboard support, reduced motion, your own colours with CSS variables"
         ],
         "ua": [
-          "Aurora: кольорове сяйво перетікає під активну вкладку",
-          "Magnetic dock: іконки збільшуються під курсором",
-          "Liquid morph: індикатор перетікає, як крапля",
-          "Рідка лінія-підкреслення, що тягнеться в русі",
-          "Анімована райдужна рамка",
-          "Split pill: активний пункт «відпливає» окремо",
+          "6 навігаційних меню: кольорове сяйво, магнітний док, рідка крапля, рідке підкреслення, райдужна рамка, split pill",
+          "Кнопки й елементи керування: CTA з бульбашками, 3 стилі кнопок, перемикач, сегментований вибір, чипи-фільтри",
+          "Картки й оверлеї: картка контенту й картка з ціною, модальне вікно, тост, підказка, панель для дашборду",
+          "Усе в одному стилі — кольорове сяйво й райдужні рамки",
           "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
         ]
       },
@@ -93,8 +85,8 @@
         "Web Component"
       ],
       "price": {
-        "personal": 19,
-        "commercial": 39
+        "personal": 39,
+        "commercial": 79
       },
       "buy": {
         "personal": "",
@@ -112,26 +104,22 @@
         "ua": "Mobile & Floating"
       },
       "tagline": {
-        "en": "6 menus for phones, apps and dashboards.",
-        "ua": "6 меню для телефонів, застосунків і дашбордів."
+        "en": "A complete UI kit for phones, apps and dashboards.",
+        "ua": "Повний UI-набір для телефонів, застосунків і дашбордів."
       },
       "includes": {
         "en": [
-          "Bottom tab bar with a glass lens",
-          "Floating dock with a raised centre button",
-          "Radial menu that fans out from a + button",
-          "Hamburger that opens a glass menu sheet",
-          "Side rail for dashboards, with tooltips",
-          "Bar with a search field that expands",
+          "6 navigation menus: tab bar, floating dock, radial menu, menu sheet, side rail, search bar",
+          "Buttons & controls: bubble-pop CTA, 3 button styles, toggle, segmented control, filter chips",
+          "Cards & overlays: content and pricing cards, modal, toast, tooltip, dashboard panel",
+          "All in one style — big touch targets, bottom sheets instead of modals",
           "Keyboard support, reduced motion, your own colours with CSS variables"
         ],
         "ua": [
-          "Нижня панель вкладок зі скляною лінзою",
-          "Плаваючий док із піднятою центральною кнопкою",
-          "Радіальне меню, що розкривається віялом з кнопки +",
-          "Бургер, що відкриває скляну шторку меню",
-          "Бічна панель для дашбордів із підказками",
-          "Панель із полем пошуку, що розгортається",
+          "6 навігаційних меню: панель вкладок, плаваючий док, радіальне меню, шторка-меню, бічна панель, панель пошуку",
+          "Кнопки й елементи керування: CTA з бульбашками, 3 стилі кнопок, перемикач, сегментований вибір, чипи-фільтри",
+          "Картки й оверлеї: картка контенту й картка з ціною, модальне вікно, тост, підказка, панель для дашборду",
+          "Усе в одному стилі — великі зони натискання, нижні шторки замість модальних вікон",
           "Клавіатура, спокійний режим, власні кольори через CSS-змінні"
         ]
       },
@@ -141,8 +129,8 @@
         "Web Component"
       ],
       "price": {
-        "personal": 19,
-        "commercial": 39
+        "personal": 39,
+        "commercial": 79
       },
       "buy": {
         "personal": "",
@@ -157,16 +145,16 @@
     "id": "glass-menus-all",
     "status": "coming-soon",
     "name": {
-      "en": "Glass Menus — all 18 menus",
-      "ua": "Glass Menus — усі 18 меню"
+      "en": "Glass UI — all three styles",
+      "ua": "Glass UI — усі три стилі"
     },
     "tagline": {
-      "en": "All three sets together, plus every future update.",
-      "ua": "Усі три набори разом — і всі майбутні оновлення."
+      "en": "18 menus plus buttons, cards and overlays in all three styles, and every future update.",
+      "ua": "18 меню плюс кнопки, картки й оверлеї у всіх трьох стилях — і всі майбутні оновлення."
     },
     "price": {
-      "personal": 45,
-      "commercial": 89
+      "personal": 89,
+      "commercial": 179
     },
     "buy": {
       "personal": "",
@@ -190,8 +178,8 @@
         "ua": "Що я отримаю після покупки?"
       },
       "a": {
-        "en": "A download with the code (HTML, React and a Web Component), a short guide and examples. Updates are free.",
-        "ua": "Архів із кодом (HTML, React і веб-компонент), коротку інструкцію та приклади. Оновлення безкоштовні."
+        "en": "A download with every component of the kit (HTML, React and a Web Component), a short guide and examples. Updates are free.",
+        "ua": "Архів з усіма компонентами набору (HTML, React і веб-компонент), коротку інструкцію та приклади. Оновлення безкоштовні."
       }
     },
     {
