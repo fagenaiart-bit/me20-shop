@@ -47,10 +47,9 @@
         "personal": "",
         "commercial": ""
       },
-      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-liquid-glass.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-liquid-glass.webp",
-      "preview": "nav",
-      "demo": "/free/glass-nav/demo.html"
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-liquid-glass-v2.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-liquid-glass-v2.webp",
+      "preview": "nav"
     },
     {
       "id": "glass-menus-aurora-motion",
@@ -92,8 +91,8 @@
         "personal": "",
         "commercial": ""
       },
-      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-aurora-motion.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-aurora-motion.webp",
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-aurora-motion-v2.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-aurora-motion-v2.webp",
       "preview": "nav"
     },
     {
@@ -136,8 +135,8 @@
         "personal": "",
         "commercial": ""
       },
-      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-mobile-floating.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-menus-mobile-floating.webp",
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-mobile-floating-v2.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-ui-mobile-floating-v2.webp",
       "preview": "nav"
     }
   ],
