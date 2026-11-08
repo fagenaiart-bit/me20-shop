@@ -46,7 +46,8 @@
         "commercial": ""
       },
       "preview": "nav",
-      "demo": "/demo/glass-menus/liquid-glass.html"
+      "demo": "/demo/glass-menus/liquid-glass.html",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-navigation.webp"
     },
     {
       "id": "glass-carousel",
@@ -89,7 +90,9 @@
         "commercial": ""
       },
       "preview": "cards",
-      "demo": "/demo/glass-carousel.html"
+      "demo": "/demo/glass-carousel.html",
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-carousel-preview.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-carousel-preview.webp"
     },
     {
       "id": "glass-moments",
@@ -134,7 +137,9 @@
         "commercial": ""
       },
       "preview": "buttons",
-      "demo": "/demo/glass-moments.html"
+      "demo": "/demo/glass-moments.html",
+      "video": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-moments-preview.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/fagenaiart-bit/me20-shop@main/media/glass-moments-preview.webp"
     }
   ],
   "bundle": {
